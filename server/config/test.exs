@@ -17,7 +17,7 @@ config :sustenta_mais, SustentaMais.Repo,
 # you can enable the server option below.
 config :sustenta_mais, SustentaMaisWeb.Endpoint,
   http: [ip: {127, 0, 0, 1}, port: 4002],
-  secret_key_base: "w1PKJ+iInWsaWFAkEoHtyF5qmsDmq7/DBSd6/QQXtsFX1Jj22yN5UTNvp+QsjCNa",
+  secret_key_base: "zeyv+R8CGkJu8o9wtNIjA5lMhOQ0z2FxHxF1RURYWj9jILoeymZn6fVIMx3C7laX",
   server: false
 
 # In test we don't send emails.

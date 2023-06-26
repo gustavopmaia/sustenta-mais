@@ -23,7 +23,7 @@ config :sustenta_mais, SustentaMaisWeb.Endpoint,
   check_origin: false,
   code_reloader: true,
   debug_errors: true,
-  secret_key_base: "wXrswgvNeVDwJiXgU8VmAOgqcR8e5jlajf/ghQ7r94f/K0r9jjohAmJGK8BLMJoJ",
+  secret_key_base: "NygqcaIUJK3BB3uqXdt+PXZDnnuRrS0qVRdU5IbJr1Q5hoslDcvDtMkp15jEomTB",
   watchers: []
 
 # ## SSL Support
