@@ -18,7 +18,7 @@ config :sustenta_mais, SustentaMaisWeb.Endpoint,
     layout: false
   ],
   pubsub_server: SustentaMais.PubSub,
-  live_view: [signing_salt: "IDXcr0h4"]
+  live_view: [signing_salt: "zLfvKaHZ"]
 
 # Configures the mailer
 #

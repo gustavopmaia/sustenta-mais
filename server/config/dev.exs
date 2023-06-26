@@ -14,8 +14,8 @@ config :sustenta_mais, SustentaMais.Repo,
 # debugging and code reloading.
 #
 # The watchers configuration can be used to run external
-# watchers to your application. For example, we use it
-# with esbuild to bundle .js and .css sources.
+# watchers to your application. For example, we can use it
+# to bundle .js and .css sources.
 config :sustenta_mais, SustentaMaisWeb.Endpoint,
   # Binding to loopback ipv4 address prevents access from other machines.
   # Change to `ip: {0, 0, 0, 0}` to allow access from other machines.
@@ -23,7 +23,7 @@ config :sustenta_mais, SustentaMaisWeb.Endpoint,
   check_origin: false,
   code_reloader: true,
   debug_errors: true,
-  secret_key_base: "okijeFmDM3s5qMmqqH3bIonhM9Wb6YeF6B4f2+4R9aN9qwCVa13tJEUTqh+GCVKP",
+  secret_key_base: "wXrswgvNeVDwJiXgU8VmAOgqcR8e5jlajf/ghQ7r94f/K0r9jjohAmJGK8BLMJoJ",
   watchers: []
 
 # ## SSL Support

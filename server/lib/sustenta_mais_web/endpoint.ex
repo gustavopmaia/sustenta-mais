@@ -7,7 +7,7 @@ defmodule SustentaMaisWeb.Endpoint do
   @session_options [
     store: :cookie,
     key: "_sustenta_mais_key",
-    signing_salt: "U448q1jg",
+    signing_salt: "LlHr7jup",
     same_site: "Lax"
   ]
 
